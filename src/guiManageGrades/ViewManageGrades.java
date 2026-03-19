@@ -25,7 +25,6 @@ import entityClasses.User;
 * the view exposes static GUI widgets and helper methods used by the Controller Manage Grades class 
 * to implement user interactions for creating, editing and deleting grades.</p>
 *
-* @author Diana Davidsen
 * 
 */
 

@@ -79,7 +79,7 @@ public class ControllerManageThreads {
 		// Add the list of widgets to the stage and show it
 		
 		// Set the title for the window
-		ViewManageThreads.theStage.setTitle("CSE 360 Foundation Code: Admin Opertaions Page");
+		ViewManageThreads.theStage.setTitle("Admin Operations Page");
 		ViewManageThreads.theStage.setScene(ViewManageThreads.theAddRemoveRolesScene);
 		ViewManageThreads.theStage.show();
 	}

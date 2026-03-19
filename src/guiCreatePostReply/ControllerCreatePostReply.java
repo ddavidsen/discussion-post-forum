@@ -75,7 +75,7 @@ public class ControllerCreatePostReply {
 
 		
 		// Set the title for the window
-		ViewCreatePostReply.theStage.setTitle("CSE 360 Foundation Code: Admin Opertaions Page");
+		ViewCreatePostReply.theStage.setTitle("Admin Opertaions Page");
 		ViewCreatePostReply.theStage.setScene(ViewCreatePostReply.theCreatePostReplyScene);
 		ViewCreatePostReply.theStage.show();
 	}

@@ -26,9 +26,6 @@ import entityClasses.User;
  * on the H2 main page.)  This class leverages H2 and provides numerous special supporting methods.
  * </p>
  * 
- * @author Diana Davidsen
- * @author Lynn Robert Carter
- * @author Jessica Lara Valdez
  * 
  */
 

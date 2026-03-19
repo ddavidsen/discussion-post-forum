@@ -23,7 +23,6 @@ import entityClasses.User;
  * 
  * <p> Description: The Java/FX-based page for deleting users.</p>
  * 
- * @author Diana Davidsen
  *  
  */
 

@@ -24,7 +24,6 @@ import entityClasses.User;
  * 
  * <p> Description: The Java/FX-based page for managing the threads/discussion.</p>
  * 
- * @author Diana Davidsen
  *  
  */
 

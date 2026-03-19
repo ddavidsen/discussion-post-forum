@@ -21,11 +21,6 @@ import entityClasses.User;
  * code to establish an account after they have specified an invitation code on the standard login
  * page. </p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- *  
  */
 
 public class ViewNewAccount {
@@ -152,7 +147,7 @@ public class ViewNewAccount {
     			label_UsernameError, label_Password1Error, label_Password2Error);    	
 
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundation Code: New User Account Setup");	
+		theStage.setTitle("New User Account Setup");	
         theStage.setScene(theNewAccountScene);
 		theStage.show();
 	}

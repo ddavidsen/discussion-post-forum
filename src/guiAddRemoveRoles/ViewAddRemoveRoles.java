@@ -23,8 +23,6 @@ import entityClasses.User;
  * 
  * <p> Description: The Java/FX-based page for changing the assigned roles to users.</p>
  * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
  *  
  */
 

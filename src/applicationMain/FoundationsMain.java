@@ -11,9 +11,7 @@ import javafx.scene.control.Alert.AlertType;
 /*******
  * <p> Title: FoundationsMain Class </p>
  *
- * <p> Description: This is the Main Class that launches the Foundations demonstration
- * application.  This is a JavaFX application designed to serve as a foundation for the CSE360
- * Individual Homework and Team Project assignments and demonstrate the use of the following:
+ * <p> Description: This is a JavaFX application designed to demonstrate the use of the following:
  *
  *      • The Singleton Design Pattern - The GUI uses the MVC Design Pattern, and each of the
  *      		three components is instantiated once.  This requires special coding.  See this
@@ -50,11 +48,6 @@ import javafx.scene.control.Alert.AlertType;
  * JavaFX in Eclipse requires they be made available in the application's main method, even if they
  * are not needed.</p>
  *
- * <p> Original template © Lynn Robert Carter 2025 </p>
- *
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
  */
 
 public class FoundationsMain extends Application {

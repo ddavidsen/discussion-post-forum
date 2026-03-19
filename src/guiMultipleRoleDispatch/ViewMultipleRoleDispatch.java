@@ -20,7 +20,6 @@ import entityClasses.User;
  * 
  * <p> Description: The Java/FX-based Admin Update Page.</p>
  * 
- * @author Lynn Robert Carter
  *  
  */
 
@@ -98,7 +97,7 @@ public class ViewMultipleRoleDispatch {
 		combobox_SelectRole.getSelectionModel().select(0);
 		
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundation Code: Multiple Role Dispatch");	
+		theStage.setTitle("Multiple Role Dispatch");	
 		theStage.setScene(theMultipleRoleDispatchScene);		// Set this page onto the stage
 		theStage.show();										// Display it to the user
 	}

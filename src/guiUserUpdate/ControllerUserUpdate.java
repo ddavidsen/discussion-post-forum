@@ -16,11 +16,6 @@ import javafx.scene.control.Alert.AlertType;
  * established, the one-time password is cleared so it cannot be reused, and the user
  * is required to log in again.</p>
  *
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- *
  */
 
 public class ControllerUserUpdate {

@@ -30,11 +30,6 @@ import entityClasses.User;
  * 		- Email Address
  * The page uses dialog boxes for updating these items.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- *  
  */
 
 public class ViewUserUpdate {
@@ -203,7 +198,7 @@ public class ViewUserUpdate {
     	refreshButtons();
 
 		// Set the title for the window, display the page, and wait for the Admin to do something
-    	theStage.setTitle("CSE 360 Foundation Code: Update User Account Details");
+    	theStage.setTitle("Update User Account Details");
         theStage.setScene(theUserUpdateScene);
 		theStage.show();
 	}

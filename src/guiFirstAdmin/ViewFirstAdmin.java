@@ -21,9 +21,6 @@ import javafx.scene.Scene;
  * application.  This avoids the common weakness practice of hard coding credentials into the 
  * application.</p>
  * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
  *  
  */
 
@@ -110,7 +107,7 @@ public class ViewFirstAdmin {
 		applicationMain.FoundationsMain.activeHomePage = theRole;	// 1: Admin; 2: Staff; 3 Student
 
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundation Code: First User Account Setup");	
+		theStage.setTitle("First User Account Setup");	
 		theStage.setScene(theFirstAdminScene);
 		theStage.show();
 	}

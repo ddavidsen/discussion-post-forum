@@ -9,10 +9,6 @@ public class ModelStaffHome {
  * data manipulated by this MVC beyond accepting role information and saving it in the
  * database.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- *  
  */
 
 }

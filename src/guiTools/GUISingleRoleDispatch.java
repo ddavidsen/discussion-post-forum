@@ -16,11 +16,6 @@ import entityClasses.User;
  * class, GUIMultipleRoleHomePage, asks the user which of their roles do they want to use,
  * and then it dispatches the user to that role's home page.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- *  
  */
 
 public class GUISingleRoleDispatch {

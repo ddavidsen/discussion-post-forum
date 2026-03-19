@@ -24,7 +24,6 @@ import entityClasses.User;
 * This view exposes static GUI widgets and helper methods used by
 * the view exposes static GUI widgets and helper methods used by the Controller class.</p>
 *
-* @author Diana Davidsen
 * 
 */
 
@@ -174,7 +173,7 @@ public class ViewOpenCloseRequests {
 		// Populate the window with the title and other common widgets and set their static state
 		
 		// GUI Area 1
-		label_PageTitle.setText("Manage Grades Page");
+		label_PageTitle.setText("Admin Requests Page");
 		setupLabelUI(label_PageTitle, "Arial", 28, width, Pos.CENTER, 0, 5);
 
 		label_UserDetails.setText("User: " + theUser.getUserName());

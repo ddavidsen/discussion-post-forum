@@ -18,12 +18,6 @@ import javafx.stage.Stage;
  * 
  * <p> Description: The Java/FX-based System Startup Page.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
- *  
  */
 
 public class ViewUserLogin {
@@ -90,7 +84,7 @@ public class ViewUserLogin {
 		text_Invitation.setText("");	// Same for the invitation code
 
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundation Code: User Login Page");		
+		theStage.setTitle("User Login Page");		
 		theStage.setScene(theUserLoginScene);
 		theStage.show();
 	}

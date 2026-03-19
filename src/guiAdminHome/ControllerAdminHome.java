@@ -29,10 +29,6 @@ import javafx.scene.control.TextArea;
  * The class has been written assuming that the View or the Model are the only class methods that
  * can invoke these methods.  This is why each has been declared at "protected".  Do not change any
  * of these methods to public.</p>
- * 
- * @author Diana Davidsen
- * @author Lynn Robert Carter
- * @author Jessica Lara Valdez
  *  
  */
 

@@ -26,12 +26,6 @@ import guiUserUpdate.ViewUserUpdate;
  * the application.  The widgets on this page are likely the minimum number and kind for other role
  * pages that may be needed.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
- *  
  */
 
 public class ViewStaffHome {
@@ -151,7 +145,7 @@ public class ViewStaffHome {
 		label_UserDetails.setText("User: " + theUser.getUserName());
 				
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundations: Staff Home Page");
+		theStage.setTitle("Staff Home Page");
 		theStage.setScene(theViewStaffHomeScene);
 		theStage.show();
 	}

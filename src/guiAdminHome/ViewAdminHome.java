@@ -41,10 +41,6 @@ import guiUserUpdate.ViewUserUpdate;
  * users. This Baeldung article provides insight into the issues: 
  *           https://www.baeldung.com/java-singleton</p>
  * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
- *  
  */
 
 public class ViewAdminHome {
@@ -207,7 +203,7 @@ public class ViewAdminHome {
 		combobox_SelectRole.getSelectionModel().select(0);
 				
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundation Code: Admin Home Page");
+		theStage.setTitle("Admin Home Page");
 		theStage.setScene(theAdminHomeScene);						// Set this page onto the stage
 		theStage.show();											// Display it to the user
 	}

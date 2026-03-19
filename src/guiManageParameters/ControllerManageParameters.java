@@ -74,7 +74,7 @@ public class ControllerManageParameters {
 		// Add the list of widgets to the stage and show it
 		
 		// Set the title for the window
-		ViewManageParameters.theStage.setTitle("CSE 360 Foundation Code: Opertaions Page");
+		ViewManageParameters.theStage.setTitle("Operations Page");
 		ViewManageParameters.theStage.setScene(ViewManageParameters.theAddRemoveRolesScene);
 		ViewManageParameters.theStage.show();
 	}

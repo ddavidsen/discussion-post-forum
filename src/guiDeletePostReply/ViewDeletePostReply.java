@@ -23,8 +23,6 @@ import entityClasses.User;
  * 
  * <p> Description: The Java/FX-based page for deleting a post in the database.</p>
  * 
- * @author Diana Davidsen
- *  
  */
 
 public class ViewDeletePostReply {
@@ -140,7 +138,7 @@ public class ViewDeletePostReply {
 		setupLabelUI(label_UserDetails, "Arial", 20, width, Pos.BASELINE_LEFT, 20, 55);
 		
 		// Set the title for the window
-		ViewDeletePostReply.theStage.setTitle("CSE 360 Foundation Code: Opertaions Page");
+		ViewDeletePostReply.theStage.setTitle("Operations Page");
 		ViewDeletePostReply.theStage.setScene(ViewDeletePostReply.theEditPostReplyScene);
 		ViewDeletePostReply.theStage.show();
 	}

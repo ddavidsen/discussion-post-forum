@@ -5,7 +5,6 @@ package guiOpenCloseRequests;
  * 
  * <p> Description: The ModelOpenCloseRequests Page Model.  This class is not used..</p>
  * 
- * @author Diana Davidsen
  *  
  */
 

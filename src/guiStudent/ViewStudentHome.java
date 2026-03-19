@@ -25,12 +25,6 @@ import entityClasses.User;
  * the application.  The widgets on this page are likely the minimum number and kind for other role
  * pages that may be needed.</p>
  * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * @author Diana Davidsen
- * 
- *  
  */
 
 public class ViewStudentHome {
@@ -136,7 +130,7 @@ public class ViewStudentHome {
 		label_UserDetails.setText("User: " + theUser.getUserName());// Set the username
 
 		// Set the title for the window, display the page, and wait for the Admin to do something
-		theStage.setTitle("CSE 360 Foundations: Student Home Page");
+		theStage.setTitle("Student Home Page");
 		theStage.setScene(theStudentHomeScene);						// Set this page onto the stage
 		theStage.show();											// Display it to the user
 	}

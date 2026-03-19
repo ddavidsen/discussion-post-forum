@@ -7,8 +7,6 @@ package entityClasses;
  *  details such as postID, author, title, body, and controls details such as parentThread, markedRead,
  *  numReplies, replyList </p>
  * 
- * @author Diana Davidsen
- * 
  */ 
 
 public class Post {

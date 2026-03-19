@@ -19,7 +19,6 @@ import entityClasses.User;
 *
 * <p> Description: This method helps edit a post and to view a reply.</p>
 * 
-* @author Diana Davidsen
 * 
 */
 
@@ -134,7 +133,7 @@ public class ViewEditPostReply {
 		setupLabelUI(label_UserDetails, "Arial", 20, width, Pos.BASELINE_LEFT, 20, 55);
 		
 		// Set the title for the window
-		ViewEditPostReply.theStage.setTitle("CSE 360 Foundation Code: Opertaions Page");
+		ViewEditPostReply.theStage.setTitle("Operations Page");
 		ViewEditPostReply.theStage.setScene(ViewEditPostReply.theEditPostReplyScene);
 		ViewEditPostReply.theStage.show();
 	}

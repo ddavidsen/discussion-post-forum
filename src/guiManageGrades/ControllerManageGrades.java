@@ -82,7 +82,7 @@ public class ControllerManageGrades {
 		// Add the list of widgets to the stage and show it
 		
 		// Set the title for the window
-		ViewManageGrades.theStage.setTitle("CSE 360 Foundation Code: Opertaions Page");
+		ViewManageGrades.theStage.setTitle("Operations Page");
 		ViewManageGrades.theStage.setScene(ViewManageGrades.theManageGradesScene);
 		ViewManageGrades.theStage.show();
 	}

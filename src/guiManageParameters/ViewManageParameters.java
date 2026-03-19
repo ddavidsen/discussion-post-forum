@@ -23,7 +23,6 @@ import entityClasses.User;
 * <p> Description: JavaFX page for managing application parameters where it allows for create, edit, delete. Those view exposes static GUI widgets and helper methods used by
 * the view exposes static GUI widgets and helper methods used by the Controller Manage Parameters class to implement user interactions for creating, editing and deleting parameters.</p>
 *
-* @author Diana Davidsen
 * 
 */
 

@@ -79,7 +79,7 @@ public class ControllerOpenCloseRequests {
 		// Add the list of widgets to the stage and show it
 		
 		// Set the title for the window
-		ViewOpenCloseRequests.theStage.setTitle("CSE 360 Foundation Code: Operations Page");
+		ViewOpenCloseRequests.theStage.setTitle("Operations Page");
 		ViewOpenCloseRequests.theStage.setScene(ViewOpenCloseRequests.theManageGradesScene);
 		ViewOpenCloseRequests.theStage.show();
 	}

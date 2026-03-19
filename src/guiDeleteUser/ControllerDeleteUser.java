@@ -78,7 +78,7 @@ public class ControllerDeleteUser {
 		// Add the list of widgets to the stage and show it
 		
 		// Set the title for the window
-		ViewDeleteUser.theStage.setTitle("CSE 360 Foundation Code: Admin Opertaions Page");
+		ViewDeleteUser.theStage.setTitle("Admin Operations Page");
 		ViewDeleteUser.theStage.setScene(ViewDeleteUser.theRemoveUserScene);
 		ViewDeleteUser.theStage.show();
 	}
