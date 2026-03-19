@@ -55,6 +55,19 @@ This project was built on top of a starter template included in the `original-te
 
 ---
 
+## Usage
+
+This is a quick start guide to help you explore the application’s core features
+
+1. On first launch, create an admin account with a username and password that meet the specified requirements
+2. Log in using the newly created admin credentials
+3. Use the email address field to send invitations to new users
+   - Assign different roles to each user to explore role-based functionality
+4. Copy the generated invitation code, log out, and use it to register a new user
+5. Log in as different users to explore the system from each role’s perspective
+
+---
+
 ## Template Attribution
 
 This project was developed using a starter template provided by Zahra Sadri-Moshkenani @ Arizona State University.  
